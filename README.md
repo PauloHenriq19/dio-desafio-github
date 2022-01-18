@@ -1,2 +1,2 @@
 # dio-desafio-github
-Desafio github bootcamp DIO
+Desafio de Projeto sobre Git/GitHub
