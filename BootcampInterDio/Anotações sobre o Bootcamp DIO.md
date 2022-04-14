@@ -1,5 +1,4 @@
 # Anotações sobre o andamento do curso, curiosidades e dúvidas.
 
-## [Link para acessar a plataforma DIO:] (https://web.dio.me/track/inter-frontend-developer?tab=path)
-
+## Clonando o repositório e salvando uma nova versão
 ### Desafio concluído
